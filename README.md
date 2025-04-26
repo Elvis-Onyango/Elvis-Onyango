@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Elvis Onyango
 
 🎓 Telecommunications and Information Technology student at Kenyatta University.  
-🛠️ Full-Stack Developer | Python (Django) • JavaScript (React.js, Node.js) • SQL.  
+🛠️ Full-Stack Developer | Python (Django and Flask) • JavaScript (React.js, Node.js) • SQL.  
 🔍 Currently expanding my skills in:
 - Data Analysis and Visualization
 - Linux Systems and Server Management
@@ -10,7 +10,7 @@
 🚀 Passionate about building efficient, scalable tech solutions and solving real-world problems through code.  
 🤝 Open to collaborations on software, data science, and research-based projects.
 
-📫 **Reach me at:** onyangoelvis840@gmail.com  
+📫 **Reach me at:** onyangoelvis804@gmail.com  
 🌍 Always learning, always evolving.
 
 ---
